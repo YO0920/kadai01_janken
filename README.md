@@ -19,7 +19,11 @@
 ## ⑤質問・疑問・感想、シェアしたいこと等なんでも
 - [感想]おみくじアプリの演習を行ったことで思ったよりも簡単に完成しまったが、これだけだとJSは習得できていないと思うのでもう少し数をこなして色々な機能に慣れていきたい。
 
-![alt text](img/janken01.png)
-![alt text](img/janken02.png)
-![alt text](img/janken03.png)
-![alt text](img/janken04.png)
+<!-- ![alt text](img/janken01.png) -->
+![top page capture](./img/janken01.png)
+<!-- ![alt text](img/janken02.png) -->
+![top page capture](./img/janken02.png)
+<!-- ![alt text](img/janken03.png) -->
+![top page capture](./img/janken03.png)
+<!-- ![alt text](img/janken04.png) -->
+![top page capture](./img/janken04.png)
